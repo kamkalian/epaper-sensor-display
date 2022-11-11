@@ -1,1 +1,3 @@
-.mpy
+*.mpy
+commands.txt
+venv
